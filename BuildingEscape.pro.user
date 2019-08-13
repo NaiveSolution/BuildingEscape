@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.9.2, 2019-08-13T22:02:23. -->
+<!-- Written by QtCreator 4.9.2, 2019-08-13T22:14:46. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,7 +285,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Custom Executable</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.CustomExecutableRunConfiguration</value>
-    <value type="QString" key="RunConfiguration.Arguments">&quot;%{buildDir}/BuildingEscape.uproject&quot;</value>
+    <value type="QString" key="RunConfiguration.Arguments">&quot;/home/tariq/Unreal Projects/BuildingEscape/BuildingEscape.uproject&quot;</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>

@@ -2,7 +2,7 @@
 # *DO NOT EDIT*
 
 UNREALROOTPATH = /media/tariq/Backup/Unreal/UnrealEngine
-GAMEPROJECTFILE =/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/BuildingEscape.uproject
+GAMEPROJECTFILE =/home/tariq/Unreal Projects/BuildingEscape/BuildingEscape.uproject
 
 TARGETS = \
 	BuildingEscape-Linux-Debug  \
