@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/.vscode": true,
+		"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Content": true,
+		"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Intermediate": true
+	}
+}
