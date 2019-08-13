@@ -1,7 +1,11 @@
 {
 	"files.exclude": {
-		"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/.vscode": true,
-		"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Content": true,
-		"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Intermediate": true
+		"/home/tariq/Unreal Projects/BuildingEscape/.git": true,
+		"/home/tariq/Unreal Projects/BuildingEscape/.kdev4": true,
+		"/home/tariq/Unreal Projects/BuildingEscape/.vscode": true,
+		"/home/tariq/Unreal Projects/BuildingEscape/Content": true,
+		"/home/tariq/Unreal Projects/BuildingEscape/DerivedDataCache": true,
+		"/home/tariq/Unreal Projects/BuildingEscape/Intermediate": true,
+		"/home/tariq/Unreal Projects/BuildingEscape/Saved": true
 	}
 }

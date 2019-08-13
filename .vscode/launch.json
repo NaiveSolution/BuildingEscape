@@ -5,7 +5,7 @@
 			"name": "BuildingEscape (Debug)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Linux Debug Build",
-			"program": "/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-Debug",
+			"program": "/home/tariq/Unreal Projects/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-Debug",
 			"args": [
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
@@ -15,7 +15,7 @@
 			"name": "BuildingEscape (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Linux DebugGame Build",
-			"program": "/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-DebugGame",
+			"program": "/home/tariq/Unreal Projects/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-DebugGame",
 			"args": [
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
@@ -25,7 +25,7 @@
 			"name": "BuildingEscape (Development)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Linux Development Build",
-			"program": "/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Binaries/Linux/BuildingEscape",
+			"program": "/home/tariq/Unreal Projects/BuildingEscape/Binaries/Linux/BuildingEscape",
 			"args": [
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
@@ -35,7 +35,7 @@
 			"name": "BuildingEscape (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Linux Shipping Build",
-			"program": "/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-Shipping",
+			"program": "/home/tariq/Unreal Projects/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-Shipping",
 			"args": [
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
@@ -45,7 +45,7 @@
 			"name": "BuildingEscape (Test)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Linux Test Build",
-			"program": "/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-Test",
+			"program": "/home/tariq/Unreal Projects/BuildingEscape/Binaries/Linux/BuildingEscape-Linux-Test",
 			"args": [
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
@@ -57,7 +57,7 @@
 			"preLaunchTask": "BuildingEscapeEditor Linux Debug Build",
 			"program": "/media/tariq/Backup/Unreal/UnrealEngine/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
 			"args": [
-				"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/BuildingEscape.uproject"
+				"/home/tariq/Unreal Projects/BuildingEscape/BuildingEscape.uproject"
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
 			"type": "lldb"
@@ -68,7 +68,7 @@
 			"preLaunchTask": "BuildingEscapeEditor Linux DebugGame Build",
 			"program": "/media/tariq/Backup/Unreal/UnrealEngine/Engine/Binaries/Linux/UE4Editor",
 			"args": [
-				"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/BuildingEscape.uproject"
+				"/home/tariq/Unreal Projects/BuildingEscape/BuildingEscape.uproject"
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
 			"type": "lldb"
@@ -79,7 +79,7 @@
 			"preLaunchTask": "BuildingEscapeEditor Linux Development Build",
 			"program": "/media/tariq/Backup/Unreal/UnrealEngine/Engine/Binaries/Linux/UE4Editor",
 			"args": [
-				"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/BuildingEscape.uproject"
+				"/home/tariq/Unreal Projects/BuildingEscape/BuildingEscape.uproject"
 			],
 			"cwd": "/media/tariq/Backup/Unreal/UnrealEngine",
 			"type": "lldb"
@@ -93,7 +93,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"/home/tariq/Unreal Projects/03_BuildingEscape/BuildingEscape/BuildingEscape.uproject\"",
+				"-project=\"/home/tariq/Unreal Projects/BuildingEscape/BuildingEscape.uproject\"",
 				"-game",
 				"-engine"
 			],
